@@ -11,31 +11,48 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-           ListNode* dummy = new ListNode(-1);
-        ListNode* current = dummy;
+        
 
-        // Traverse both lists
-        while (list1 != nullptr && list2 != nullptr) {
-            if (list1->val <= list2->val) {
-                current->next = list1;
-                list1 = list1->next;
-            } else {
-                current->next = list2;
-                list2 = list2->next;
-            }
-            current = current->next;
-        }
+      ListNode dummy;
+      ListNode* tail = &dummy;
+      dummy.next = NULL;
 
-        // Append the remaining nodes of the non-empty list
-        if (list1 != nullptr) {
-            current->next = list1;
-        } else {
-            current->next = list2;
-        }
+      while(list1!=NULL && list2!=NULL){
+           
+           //case for less than 
 
-        // The merged list starts at dummy->next
-        ListNode* mergedHead = dummy->next;
-        delete dummy; // Free the dummy node to avoid memory leak
-        return mergedHead;
+           while(list1!=NULL && list2!=NULL && list1->val < list2->val){
+                   tail->next = list1;
+                   tail=tail->next;
+                   list1=list1->next;
+           }
+
+           while(list1!=NULL && list2!=NULL && list1->val == list2->val){
+              
+                ListNode* list3 = list1->next;
+                ListNode* list4 = list2->next;
+
+                tail->next = list1;
+                tail = tail->next;
+
+                tail->next= list2;
+                tail = tail->next;
+
+                list1=list3;
+                list2=list4;
+
+           }
+           while(list1!=NULL && list2!=NULL && list1->val > list2->val){
+                      tail->next = list2;
+                     tail=tail->next;
+                     list2=list2->next;
+           }
+
+
+      }
+      if(list1!=NULL) tail->next= list1;
+      if(list2!=NULL) tail->next= list2;
+
+          return dummy.next;
     }
 };
