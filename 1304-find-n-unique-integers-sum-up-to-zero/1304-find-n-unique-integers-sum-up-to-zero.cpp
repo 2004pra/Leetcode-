@@ -4,7 +4,7 @@ public:
         
         vector<int> s;
         int sum=0;
-        for(int i=0;i<n-1;i++){
+        for(int i=1;i<=n-1;i++){
               s.push_back(i);
               sum=sum+i;
         }
