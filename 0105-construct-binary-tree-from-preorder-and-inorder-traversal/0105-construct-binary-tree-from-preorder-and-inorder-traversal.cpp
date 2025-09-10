@@ -20,6 +20,8 @@ int search(vector<int>& inorder,int left, int right , int val ){
     }
     return -1;
 }
+static const int _ = [](){ios::sync_with_stdio(false); cin.tie(nullptr); return 0;}();
+
 
     TreeNode* helper(vector<int>& preorder, vector<int>& inorder, int& preIdx,int left, int right){
         if(left>right) return NULL;
