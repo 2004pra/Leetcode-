@@ -22,11 +22,15 @@ public:
 
    }
    ListNode* temp = head;
-   while(temp->next!=slow){
-           temp=temp->next;
+   while(temp!=slow){
+    if(temp->next == slow){
+        temp->next = slow->next;
+        delete slow;
+        break;
+
    }
-   temp->next = slow->next;
-   delete slow;
+   temp = temp->next;
+   }
 
 
 
