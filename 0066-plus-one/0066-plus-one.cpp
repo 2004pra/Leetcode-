@@ -1,19 +1,31 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-         for (int i = digits.size() - 1; i >= 0; --i) {
-        // Add 1 to the current digit
-        digits[i] += 1;
-        // If the digit is less than 10, return the result
-        if (digits[i] < 10) {
-            return digits;
+    int n = digits.size();
+     int carry = 1;
+     vector<int> res(n+1);
+     for(int i =0;i<n;i++){
+        res[i+1]=digits[i];
+     }
+    for(int i =n-1 ;i>=0;i--){
+          carry+=digits[i];
+        if(carry==10){
+            res[i+1]=0;
+            carry=1;
         }
-        // Otherwise, set it to 0 and continue
-        digits[i] = 0;
+        else{
+            res[i+1]=carry;
+             return vector<int>(res.begin()+1,res.end());
+        }
+           
     }
 
-    // If we are here, all digits were 9, so we need to add a leading 1
-    digits.insert(digits.begin(), 1);
-    return digits;
+    if(carry==1){
+        res[0]=carry;
+    }
+
+   return res;
+    
+    
     }
 };
