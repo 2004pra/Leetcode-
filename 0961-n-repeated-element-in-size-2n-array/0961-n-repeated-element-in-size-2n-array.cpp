@@ -6,14 +6,10 @@ public:
         map<int,int> mp;
         for(int i =0;i<m;i++){
            mp[nums[i]]++;
+           if(mp[nums[i]]==n){
+            return nums[i];
+           }
         }
-        int ans =0;
-        for(auto &it : mp){
-            if(it.second==n){
-                ans = it.first;
-                break;
-            }
-        }
-        return ans;
+    return -1;
     }
 };
