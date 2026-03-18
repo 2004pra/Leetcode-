@@ -1,25 +1,41 @@
 # LeetCode Progress Tracker
 
-![Total Questions Solved](https://img.shields.io/badge/Solved%20Questions-0-brightgreen) ![Daily Update](https://img.shields.io/badge/Last%20Updated-2026--03--18%20%21%20hour%20UTC-blue)
+<p align="center">
+  <a href="https://leetcode.com/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Solutions-orange" />
+  </a>
+  <img alt="Total Problems" src="https://img.shields.io/badge/Problems_Solved-100-brightgreen" />
+  <img alt="Last Updated" src="https://img.shields.io/badge/Last_Updated-2026--03--18-blue" />
+</p>
 
 ## Overview
 
-This repository tracks your LeetCode progress automatically and generates a badge showing the number of problems solved based on the provided username.
+Welcome! This repository contains my **LeetCode solutions** organized by problem number.
 
-## Configuration Instructions
+- ✅ **Problems solved:** **100**
+- 📌 Each folder represents one problem (e.g. `0001-two-sum`).
 
-1. **Fork this repository.**
-2. **Add your LeetCode username:**
-   - Go to **Settings** -> **Secrets and variables** -> **Actions**.
-   - Create a new secret named `LEETCODE_USERNAME` and set its value to your LeetCode username.
-3. **Set up the workflow:**
-   - The GitHub actions will run daily, and on each push, to fetch the number of problems solved.
+## Auto-updating problem count
 
-## How the Badge Works
-- The badge displaying the number of solved questions will be updated automatically through the action script.
+To keep the solved count updated automatically when you push a new problem folder, enable the GitHub Action included below.
 
-### Breakdown by Difficulty (Coming Soon)
+### 1) Add workflow
 
-- Easy: 0
-- Medium: 0
-- Hard: 0
+Create `.github/workflows/update-readme-count.yml` (see below).
+
+### 2) How it works
+
+- On every push to `main`, the action counts problem folders that match `^[0-9]{4}-`.
+- It updates the badge + the number in this README.
+
+---
+
+## Problems
+
+You can browse solutions in the folders at the repository root.
+
+---
+
+## Breakdown by difficulty (optional)
+
+If you want difficulty breakdown, we can generate it too, but it requires storing difficulty metadata per problem.
