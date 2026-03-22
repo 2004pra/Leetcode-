@@ -69,6 +69,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -109,10 +110,12 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/2004pra/Leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -129,6 +132,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
