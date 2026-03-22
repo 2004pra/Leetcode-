@@ -45,6 +45,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/2004pra/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2004pra/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -75,6 +76,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/2004pra/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/2004pra/Leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/2004pra/Leetcode-/tree/main/2469-convert-the-temperature/) | Easy |
@@ -94,6 +96,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/2004pra/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/2004pra/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
