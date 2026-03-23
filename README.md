@@ -132,10 +132,12 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/2004pra/Leetcode-/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/2004pra/Leetcode-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/2004pra/Leetcode-/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/2004pra/Leetcode-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
