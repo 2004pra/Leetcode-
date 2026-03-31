@@ -146,6 +146,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/2004pra/Leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 ## Simulation
@@ -220,4 +221,8 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/2004pra/Leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
