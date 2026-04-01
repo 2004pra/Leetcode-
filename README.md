@@ -51,6 +51,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/2004pra/Leetcode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
@@ -142,6 +143,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0771-jewels-and-stones](https://github.com/2004pra/Leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0925-long-pressed-name](https://github.com/2004pra/Leetcode-/tree/main/0925-long-pressed-name/) | Easy |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
@@ -183,6 +185,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0575-distribute-candies](https://github.com/2004pra/Leetcode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0771-jewels-and-stones](https://github.com/2004pra/Leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
