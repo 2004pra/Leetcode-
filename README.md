@@ -146,6 +146,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0925-long-pressed-name](https://github.com/2004pra/Leetcode-/tree/main/0925-long-pressed-name/) | Easy |
+| [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -221,6 +222,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
