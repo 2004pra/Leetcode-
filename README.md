@@ -51,6 +51,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/2004pra/Leetcode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2004pra/Leetcode-/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -89,6 +90,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2004pra/Leetcode-/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/2004pra/Leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
