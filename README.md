@@ -250,14 +250,17 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
