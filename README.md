@@ -116,10 +116,12 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -247,12 +249,15 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
