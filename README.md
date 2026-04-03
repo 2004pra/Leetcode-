@@ -115,6 +115,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -242,4 +243,16 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/2004pra/Leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
