@@ -58,6 +58,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/2004pra/Leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -84,6 +85,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/2004pra/Leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0925-long-pressed-name](https://github.com/2004pra/Leetcode-/tree/main/0925-long-pressed-name/) | Easy |
+| [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -158,6 +160,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0925-long-pressed-name](https://github.com/2004pra/Leetcode-/tree/main/0925-long-pressed-name/) | Easy |
+| [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -236,6 +239,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
