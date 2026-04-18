@@ -121,6 +121,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2469-convert-the-temperature](https://github.com/2004pra/Leetcode-/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2004pra/Leetcode-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/2004pra/Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
