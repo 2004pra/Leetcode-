@@ -62,6 +62,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/2004pra/Leetcode-/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -221,6 +222,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
