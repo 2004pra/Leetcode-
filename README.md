@@ -49,6 +49,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2004pra/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/2004pra/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/2004pra/Leetcode-/tree/main/0575-distribute-candies/) | Easy |
@@ -294,6 +295,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/2004pra/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/2004pra/Leetcode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Divide and Conquer
