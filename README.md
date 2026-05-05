@@ -187,6 +187,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/2004pra/Leetcode-/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -240,6 +241,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/2004pra/Leetcode-/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -258,6 +260,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/2004pra/Leetcode-/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
 ## Design
