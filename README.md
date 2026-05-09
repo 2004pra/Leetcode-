@@ -186,6 +186,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -238,6 +239,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -294,6 +296,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
