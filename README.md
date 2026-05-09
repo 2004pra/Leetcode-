@@ -136,6 +136,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0070-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/2004pra/Leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/2004pra/Leetcode-/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2004pra/Leetcode-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -243,6 +244,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1122-relative-sort-array](https://github.com/2004pra/Leetcode-/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -300,6 +302,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
