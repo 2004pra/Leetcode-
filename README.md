@@ -79,6 +79,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -124,6 +125,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -254,6 +256,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/2004pra/Leetcode-/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -374,4 +377,8 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/2004pra/Leetcode-/tree/main/1122-relative-sort-array/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 <!---LeetCode Topics End-->
