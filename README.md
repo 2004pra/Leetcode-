@@ -71,6 +71,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1122-relative-sort-array](https://github.com/2004pra/Leetcode-/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/2004pra/Leetcode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/2004pra/Leetcode-/tree/main/1732-find-the-highest-altitude/) | Easy |
