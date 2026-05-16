@@ -52,6 +52,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/2004pra/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0406-queue-reconstruction-by-height](https://github.com/2004pra/Leetcode-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/2004pra/Leetcode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -128,6 +129,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
+| [0406-queue-reconstruction-by-height](https://github.com/2004pra/Leetcode-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/2004pra/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2004pra/Leetcode-/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -412,4 +414,12 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2004pra/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/2004pra/Leetcode-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/2004pra/Leetcode-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 <!---LeetCode Topics End-->
