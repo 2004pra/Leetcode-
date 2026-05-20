@@ -228,6 +228,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -440,6 +441,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2004pra/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
