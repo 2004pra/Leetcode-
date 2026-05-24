@@ -62,6 +62,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/2004pra/Leetcode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/2004pra/Leetcode-/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -223,6 +224,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/2004pra/Leetcode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/2004pra/Leetcode-/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0925-long-pressed-name](https://github.com/2004pra/Leetcode-/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
@@ -289,6 +291,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0791-custom-sort-string](https://github.com/2004pra/Leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/2004pra/Leetcode-/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/2004pra/Leetcode-/tree/main/1122-relative-sort-array/) | Easy |
