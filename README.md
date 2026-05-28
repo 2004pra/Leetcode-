@@ -144,6 +144,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/2004pra/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2004pra/Leetcode-/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/2004pra/Leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/2004pra/Leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -226,6 +227,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/2004pra/Leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/2004pra/Leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/2004pra/Leetcode-/tree/main/0796-rotate-string/) | Easy |
@@ -297,6 +299,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0575-distribute-candies](https://github.com/2004pra/Leetcode-/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/2004pra/Leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/2004pra/Leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -359,6 +362,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -371,6 +375,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -435,6 +440,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
