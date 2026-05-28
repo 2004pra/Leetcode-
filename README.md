@@ -59,6 +59,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/2004pra/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2004pra/Leetcode-/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -118,6 +119,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/2004pra/Leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/2004pra/Leetcode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -144,6 +146,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/2004pra/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2004pra/Leetcode-/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/2004pra/Leetcode-/tree/main/0791-custom-sort-string/) | Medium |
@@ -278,6 +281,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/2004pra/Leetcode-/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/2004pra/Leetcode-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -442,6 +446,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -482,4 +487,8 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0654-maximum-binary-tree/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
