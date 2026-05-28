@@ -108,6 +108,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3643-flip-square-submatrix-vertically](https://github.com/2004pra/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2004pra/Leetcode-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +327,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
