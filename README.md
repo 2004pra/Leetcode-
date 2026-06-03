@@ -180,6 +180,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2004pra/Leetcode-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -267,6 +268,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3798-largest-even-number](https://github.com/2004pra/Leetcode-/tree/main/3798-largest-even-number/) | Easy |
 ## Bit Manipulation
@@ -348,6 +350,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/2004pra/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -393,6 +396,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2004pra/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Counting
@@ -409,6 +413,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
