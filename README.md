@@ -207,6 +207,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3024-type-of-triangle](https://github.com/2004pra/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2004pra/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/2004pra/Leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/2004pra/Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -378,6 +379,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2004pra/Leetcode-/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +471,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
