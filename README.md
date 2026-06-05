@@ -64,6 +64,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0746-min-cost-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2004pra/Leetcode-/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/2004pra/Leetcode-/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/2004pra/Leetcode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0888-fair-candy-swap](https://github.com/2004pra/Leetcode-/tree/main/0888-fair-candy-swap/) | Easy |
@@ -261,6 +262,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0791-custom-sort-string](https://github.com/2004pra/Leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/2004pra/Leetcode-/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/2004pra/Leetcode-/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/2004pra/Leetcode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/2004pra/Leetcode-/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -337,6 +339,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0771-jewels-and-stones](https://github.com/2004pra/Leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/2004pra/Leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/2004pra/Leetcode-/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0888-fair-candy-swap](https://github.com/2004pra/Leetcode-/tree/main/0888-fair-candy-swap/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/2004pra/Leetcode-/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -420,6 +423,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/2004pra/Leetcode-/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
+| [0819-most-common-word](https://github.com/2004pra/Leetcode-/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
