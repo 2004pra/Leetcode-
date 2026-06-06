@@ -115,6 +115,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3024-type-of-triangle](https://github.com/2004pra/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2004pra/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/2004pra/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -366,6 +367,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/2004pra/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
@@ -387,6 +389,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2004pra/Leetcode-/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -433,6 +436,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 ## Prefix Sum
