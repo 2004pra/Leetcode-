@@ -96,6 +96,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2126-destroying-asteroids](https://github.com/2004pra/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2004pra/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -357,6 +358,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/2004pra/Leetcode-/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
@@ -462,6 +464,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0700-search-in-a-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/2004pra/Leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +484,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0700-search-in-a-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/2004pra/Leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
