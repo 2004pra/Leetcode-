@@ -96,6 +96,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2126-destroying-asteroids](https://github.com/2004pra/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2004pra/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/2004pra/Leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
@@ -140,6 +141,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/2004pra/Leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -302,6 +304,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0950-reveal-cards-in-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/2004pra/Leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
