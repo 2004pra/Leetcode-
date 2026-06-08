@@ -468,6 +468,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/2004pra/Leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -489,6 +490,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/2004pra/Leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -497,11 +499,13 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,4 +564,8 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/2004pra/Leetcode-/tree/main/0692-top-k-frequent-words/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 <!---LeetCode Topics End-->
