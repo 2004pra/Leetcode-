@@ -220,6 +220,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -229,6 +230,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
@@ -460,6 +462,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -480,6 +483,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
