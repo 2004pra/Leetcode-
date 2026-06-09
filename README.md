@@ -121,6 +121,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/2004pra/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/2004pra/Leetcode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Two Pointers
@@ -429,6 +430,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/2004pra/Leetcode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
