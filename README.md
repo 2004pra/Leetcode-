@@ -264,6 +264,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/2004pra/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/2004pra/Leetcode-/tree/main/0415-add-strings/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2004pra/Leetcode-/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -340,6 +341,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
@@ -574,6 +576,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
