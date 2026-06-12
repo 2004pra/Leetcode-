@@ -105,6 +105,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2004pra/Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
@@ -377,6 +378,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2004pra/Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -581,6 +583,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0438-find-all-anagrams-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/2004pra/Leetcode-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2004pra/Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
