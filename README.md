@@ -596,4 +596,8 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/2004pra/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/2004pra/Leetcode-/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
