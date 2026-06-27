@@ -1,41 +1,35 @@
 class Solution {
 public:
-
-   int findKR(vector<int>& nums,int& t){
-           int start = 0;
-           int end = nums.size()-1;
-
-          while(start<end){
-            int mid = start + (end-start)/2;
+     int find(vector<int>& nums, int& t){
+        int start = 0;
+        int end = nums.size()-1;
+        while(start<end){
+            int mid = start +(end-start)/2;
             if(nums[mid]>nums[end]){
-               start = mid+1;
-            }else{
+                start=mid+1;
+            }
+            else{
                 end = mid;
             }
-          }
-          return start;
-   }
-
-   int bs(vector<int>& nums,int& t,int l,int r ){
-    while(l<=r){
-        int mid = l+(r-l)/2;
-        if(nums[mid]==t){
-            return mid;
+           
         }
-        else if(nums[mid]>t) r = mid-1;
-        else l=mid+1;
-
-       
-    }
-     return -1;
-   }
+        return start;
+     }
+     int bs(vector<int>& nums, int& t, int l, int r){
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            if(nums[mid]==t) return mid;
+            else if(nums[mid]<t)  l= mid+1;
+            else r=mid-1;
+        }
+        return -1;
+     }
     int search(vector<int>& nums, int target) {
-       int index = findKR(nums,target);
-       // abb 2 alag alag halfs main binary seacrh lagayenge  
-       int a1 = bs(nums,target,0,index-1);
-       int a2 = bs(nums,target,index,nums.size()-1);
-       if(a1==-1) return a2;
-       else return a1;
-
+        int n = nums.size();
+        int id =  find(nums,target);
+        int a =  bs(nums,target,0,id-1);
+        int b = bs(nums,target,id,n-1);
+        if(a==-1) return b;
+        else return a;
     }
 };
