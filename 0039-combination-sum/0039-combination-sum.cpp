@@ -1,29 +1,28 @@
 class Solution {
-public:
+public: 
+set<vector<int>> st;
+ void help(vector<int>& nums, vector<int>& combi, vector<vector<int>>& ans, int id, int t ){
+               if(t<0) return;
+               if(id==nums.size()) return; 
+               if(t==0){
+                if(st.find({combi})==st.end()){
+                ans.push_back({combi});
+                st.insert({combi});
+                }
+                return;
+               }
+               combi.push_back(nums[id]);
+               help(nums,combi,ans,id+1,t-nums[id]);
+               help(nums,combi,ans,id,t-nums[id]);
+               combi.pop_back();
+               help(nums,combi,ans,id+1,t);
+}
+    vector<vector<int>> combinationSum(vector<int>& nums, int target) {
+         vector<vector<int>> ans;
+         vector<int> combi;
+         int id =0;
 
- void helper(vector<int>& candidates,int start,int target,vector<int>& path,vector<vector<int>>& combi){
-    if(target==0){
-        combi.push_back({path});
-        return;
-    }
-  int n = candidates.size();
-    for(int i =start;i<n;i++){
-              
-          if(candidates[i]>target){
-            continue;
-          }
-          path.push_back(candidates[i]);
-          helper(candidates,i,target-candidates[i],path,combi);
-          path.pop_back();
-
-    }
- }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        int n = candidates.size();
-        vector<vector<int>> combi;
-        vector<int> path;
-        helper(candidates,0,target,path,combi);
-        return combi;
-        
+         help(nums,combi,ans,0,target); 
+         return ans;   
     }
 };
