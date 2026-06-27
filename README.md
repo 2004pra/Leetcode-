@@ -45,6 +45,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/2004pra/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/2004pra/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2004pra/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -348,6 +349,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/2004pra/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
