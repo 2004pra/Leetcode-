@@ -133,6 +133,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/2004pra/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2004pra/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0086-partition-list](https://github.com/2004pra/Leetcode-/tree/main/0086-partition-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/2004pra/Leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -259,6 +260,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/2004pra/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/2004pra/Leetcode-/tree/main/0086-partition-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
