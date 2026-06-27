@@ -50,6 +50,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0048-rotate-image](https://github.com/2004pra/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2004pra/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/2004pra/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2004pra/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/2004pra/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -535,6 +536,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0070-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/2004pra/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/2004pra/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
