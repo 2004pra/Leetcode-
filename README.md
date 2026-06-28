@@ -93,6 +93,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/2004pra/Leetcode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2004pra/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/2004pra/Leetcode-/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/2004pra/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -190,6 +191,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2004pra/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/2004pra/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
@@ -448,6 +450,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2004pra/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/2004pra/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/2004pra/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
