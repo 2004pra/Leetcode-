@@ -47,6 +47,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/2004pra/Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/2004pra/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/2004pra/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004pra/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/2004pra/Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/2004pra/Leetcode-/tree/main/0039-combination-sum/) | Medium |
@@ -140,6 +141,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/2004pra/Leetcode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/2004pra/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2004pra/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/2004pra/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2004pra/Leetcode-/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -170,6 +172,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/2004pra/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
