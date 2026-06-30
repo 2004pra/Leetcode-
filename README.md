@@ -60,6 +60,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/2004pra/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2004pra/Leetcode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/2004pra/Leetcode-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/2004pra/Leetcode-/tree/main/0500-keyboard-row/) | Easy |
@@ -175,6 +176,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0015-3sum](https://github.com/2004pra/Leetcode-/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2004pra/Leetcode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/2004pra/Leetcode-/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -265,6 +267,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/2004pra/Leetcode-/tree/main/0048-rotate-image/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2004pra/Leetcode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/2004pra/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
@@ -346,6 +349,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2004pra/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/2004pra/Leetcode-/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/2004pra/Leetcode-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2004pra/Leetcode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0888-fair-candy-swap](https://github.com/2004pra/Leetcode-/tree/main/0888-fair-candy-swap/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -563,6 +567,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2004pra/Leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2004pra/Leetcode-/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/2004pra/Leetcode-/tree/main/0692-top-k-frequent-words/) | Medium |
