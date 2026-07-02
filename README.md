@@ -228,6 +228,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0150-evaluate-reverse-polish-notation](https://github.com/2004pra/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0415-add-strings](https://github.com/2004pra/Leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/2004pra/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0788-rotated-digits](https://github.com/2004pra/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
@@ -556,6 +557,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0096-unique-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2004pra/Leetcode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0788-rotated-digits](https://github.com/2004pra/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
