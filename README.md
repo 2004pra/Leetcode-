@@ -167,6 +167,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2004pra/Leetcode-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/2004pra/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -318,6 +319,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -467,6 +469,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2004pra/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
