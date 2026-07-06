@@ -87,6 +87,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/2004pra/Leetcode-/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/2004pra/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/2004pra/Leetcode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
@@ -193,6 +194,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0922-sort-array-by-parity-ii](https://github.com/2004pra/Leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1122-relative-sort-array](https://github.com/2004pra/Leetcode-/tree/main/1122-relative-sort-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/2004pra/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
