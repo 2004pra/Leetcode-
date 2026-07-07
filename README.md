@@ -312,6 +312,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2004pra/Leetcode-/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1528-shuffle-string](https://github.com/2004pra/Leetcode-/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -400,6 +401,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1002-find-common-characters](https://github.com/2004pra/Leetcode-/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/2004pra/Leetcode-/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2004pra/Leetcode-/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -490,6 +492,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0819-most-common-word](https://github.com/2004pra/Leetcode-/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/2004pra/Leetcode-/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
