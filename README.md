@@ -117,6 +117,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/2004pra/Leetcode-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2004pra/Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -237,6 +238,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/2004pra/Leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/2004pra/Leetcode-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2469-convert-the-temperature](https://github.com/2004pra/Leetcode-/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2004pra/Leetcode-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -417,6 +419,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/2004pra/Leetcode-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2004pra/Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
@@ -499,6 +502,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/2004pra/Leetcode-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
