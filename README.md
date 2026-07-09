@@ -333,6 +333,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3798-largest-even-number](https://github.com/2004pra/Leetcode-/tree/main/3798-largest-even-number/) | Easy |
+| [3889-mirror-frequency-distance](https://github.com/2004pra/Leetcode-/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -435,6 +436,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2004pra/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3889-mirror-frequency-distance](https://github.com/2004pra/Leetcode-/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +511,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2004pra/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3889-mirror-frequency-distance](https://github.com/2004pra/Leetcode-/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
