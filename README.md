@@ -455,6 +455,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/2004pra/Leetcode-/tree/main/1291-sequential-digits/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/2004pra/Leetcode-/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2437-number-of-valid-clock-times](https://github.com/2004pra/Leetcode-/tree/main/2437-number-of-valid-clock-times/) | Easy |
