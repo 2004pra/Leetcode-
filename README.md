@@ -235,6 +235,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0258-add-digits](https://github.com/2004pra/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/2004pra/Leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/2004pra/Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2004pra/Leetcode-/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0788-rotated-digits](https://github.com/2004pra/Leetcode-/tree/main/0788-rotated-digits/) | Medium |
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -342,6 +343,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/2004pra/Leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/2004pra/Leetcode-/tree/main/0389-find-the-difference/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2004pra/Leetcode-/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/2004pra/Leetcode-/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
