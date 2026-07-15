@@ -248,6 +248,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3024-type-of-triangle](https://github.com/2004pra/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2004pra/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/2004pra/Leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/2004pra/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/2004pra/Leetcode-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/2004pra/Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -452,6 +453,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0258-add-digits](https://github.com/2004pra/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/2004pra/Leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/2004pra/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
