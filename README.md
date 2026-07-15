@@ -267,6 +267,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/2004pra/Leetcode-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/2004pra/Leetcode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -549,6 +550,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0095-unique-binary-search-trees-ii](https://github.com/2004pra/Leetcode-/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/2004pra/Leetcode-/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/2004pra/Leetcode-/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/2004pra/Leetcode-/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/2004pra/Leetcode-/tree/main/0617-merge-two-binary-trees/) | Easy |
