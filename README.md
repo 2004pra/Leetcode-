@@ -141,6 +141,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/2004pra/Leetcode-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +175,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/2004pra/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -252,6 +255,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/2004pra/Leetcode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/2004pra/Leetcode-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/2004pra/Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +370,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,6 +462,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/2004pra/Leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2004pra/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
