@@ -231,6 +231,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/2004pra/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/2004pra/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/2004pra/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -300,6 +301,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/2004pra/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/2004pra/Leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -359,6 +361,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/2004pra/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/2004pra/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/2004pra/Leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
