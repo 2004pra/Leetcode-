@@ -102,6 +102,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/2004pra/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2004pra/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/2004pra/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -244,6 +245,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2004pra/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/2004pra/Leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/2004pra/Leetcode-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2469-convert-the-temperature](https://github.com/2004pra/Leetcode-/tree/main/2469-convert-the-temperature/) | Easy |
@@ -463,6 +465,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0258-add-digits](https://github.com/2004pra/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2004pra/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/2004pra/Leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2004pra/Leetcode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
