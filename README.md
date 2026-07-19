@@ -159,6 +159,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/2004pra/Leetcode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/2004pra/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/2004pra/Leetcode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/2004pra/Leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0925-long-pressed-name](https://github.com/2004pra/Leetcode-/tree/main/0925-long-pressed-name/) | Easy |
@@ -322,6 +323,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0804-unique-morse-code-words](https://github.com/2004pra/Leetcode-/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/2004pra/Leetcode-/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/2004pra/Leetcode-/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0844-backspace-string-compare](https://github.com/2004pra/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/2004pra/Leetcode-/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/2004pra/Leetcode-/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0925-long-pressed-name](https://github.com/2004pra/Leetcode-/tree/main/0925-long-pressed-name/) | Easy |
@@ -367,6 +369,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0258-add-digits](https://github.com/2004pra/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/2004pra/Leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/2004pra/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -657,6 +660,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0150-evaluate-reverse-polish-notation](https://github.com/2004pra/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0402-remove-k-digits](https://github.com/2004pra/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0844-backspace-string-compare](https://github.com/2004pra/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Indexed Tree
