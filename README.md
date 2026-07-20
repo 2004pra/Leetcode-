@@ -90,6 +90,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1288-remove-covered-intervals](https://github.com/2004pra/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/2004pra/Leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/2004pra/Leetcode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1528-shuffle-string](https://github.com/2004pra/Leetcode-/tree/main/1528-shuffle-string/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -372,6 +373,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0844-backspace-string-compare](https://github.com/2004pra/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/2004pra/Leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2004pra/Leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -662,6 +664,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0654-maximum-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0844-backspace-string-compare](https://github.com/2004pra/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/2004pra/Leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
