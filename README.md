@@ -106,6 +106,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2004pra/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/2004pra/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2079-watering-plants](https://github.com/2004pra/Leetcode-/tree/main/2079-watering-plants/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/2004pra/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
@@ -377,6 +378,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/2004pra/Leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2004pra/Leetcode-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2079-watering-plants](https://github.com/2004pra/Leetcode-/tree/main/2079-watering-plants/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2004pra/Leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
