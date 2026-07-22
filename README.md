@@ -305,6 +305,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/2004pra/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/2004pra/Leetcode-/tree/main/0086-partition-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/2004pra/Leetcode-/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,6 +382,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2079-watering-plants](https://github.com/2004pra/Leetcode-/tree/main/2079-watering-plants/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2004pra/Leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/2004pra/Leetcode-/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
