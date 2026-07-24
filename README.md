@@ -452,6 +452,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/2004pra/Leetcode-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/2004pra/Leetcode-/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/2004pra/Leetcode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -500,6 +501,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/2004pra/Leetcode-/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2336-smallest-number-in-infinite-set](https://github.com/2004pra/Leetcode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -642,6 +644,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/2004pra/Leetcode-/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/2004pra/Leetcode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -663,6 +666,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/2004pra/Leetcode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
