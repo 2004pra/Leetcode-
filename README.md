@@ -92,6 +92,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/2004pra/Leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/2004pra/Leetcode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/2004pra/Leetcode-/tree/main/1528-shuffle-string/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -207,6 +208,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1288-remove-covered-intervals](https://github.com/2004pra/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -650,6 +652,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/2004pra/Leetcode-/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/2004pra/Leetcode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
