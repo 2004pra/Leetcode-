@@ -147,6 +147,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/2004pra/Leetcode-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3847-find-the-score-difference-in-a-game](https://github.com/2004pra/Leetcode-/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -394,6 +395,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3271-hash-divided-string](https://github.com/2004pra/Leetcode-/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3847-find-the-score-difference-in-a-game](https://github.com/2004pra/Leetcode-/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
