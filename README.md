@@ -185,6 +185,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/2004pra/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/2004pra/Leetcode-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -366,6 +367,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/2004pra/Leetcode-/tree/main/3713-longest-balanced-substring-i/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/2004pra/Leetcode-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3798-largest-even-number](https://github.com/2004pra/Leetcode-/tree/main/3798-largest-even-number/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/2004pra/Leetcode-/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/2004pra/Leetcode-/tree/main/3913-sort-vowels-by-frequency/) | Medium |
@@ -400,6 +402,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3271-hash-divided-string](https://github.com/2004pra/Leetcode-/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/2004pra/Leetcode-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/2004pra/Leetcode-/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
