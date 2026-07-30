@@ -265,6 +265,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2469-convert-the-temperature](https://github.com/2004pra/Leetcode-/tree/main/2469-convert-the-temperature/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/2004pra/Leetcode-/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2004pra/Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/2004pra/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2004pra/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/2004pra/Leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -360,6 +361,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2004pra/Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3271-hash-divided-string](https://github.com/2004pra/Leetcode-/tree/main/3271-hash-divided-string/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2004pra/Leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -547,6 +549,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2004pra/Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
