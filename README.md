@@ -130,6 +130,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2004pra/Leetcode-/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/2004pra/Leetcode-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/2004pra/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -180,6 +181,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2004pra/Leetcode-/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2004pra/Leetcode-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -227,6 +229,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2004pra/Leetcode-/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/2004pra/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2004pra/Leetcode-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -425,6 +428,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
+| [2563-count-the-number-of-fair-pairs](https://github.com/2004pra/Leetcode-/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2004pra/Leetcode-/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/2004pra/Leetcode-/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Interactive
