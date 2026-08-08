@@ -130,6 +130,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/2004pra/Leetcode-/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2004pra/Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/2004pra/Leetcode-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/2004pra/Leetcode-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/2004pra/Leetcode-/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -234,6 +235,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/2004pra/Leetcode-/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/2004pra/Leetcode-/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/2004pra/Leetcode-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/2004pra/Leetcode-/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2004pra/Leetcode-/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/2004pra/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -321,6 +323,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0832-flipping-an-image](https://github.com/2004pra/Leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/2004pra/Leetcode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/2004pra/Leetcode-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/2004pra/Leetcode-/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/2004pra/Leetcode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -416,6 +419,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2161-partition-array-according-to-given-pivot](https://github.com/2004pra/Leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/2004pra/Leetcode-/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/2004pra/Leetcode-/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/2004pra/Leetcode-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3271-hash-divided-string](https://github.com/2004pra/Leetcode-/tree/main/3271-hash-divided-string/) | Medium |
@@ -691,6 +695,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/2004pra/Leetcode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/2004pra/Leetcode-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
