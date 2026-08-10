@@ -92,6 +92,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1288-remove-covered-intervals](https://github.com/2004pra/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/2004pra/Leetcode-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/2004pra/Leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/2004pra/Leetcode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -219,6 +220,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1288-remove-covered-intervals](https://github.com/2004pra/Leetcode-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -566,6 +568,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2004pra/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
