@@ -386,6 +386,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2004pra/Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2004pra/Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/2004pra/Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3271-hash-divided-string](https://github.com/2004pra/Leetcode-/tree/main/3271-hash-divided-string/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2004pra/Leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -513,6 +514,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/2004pra/Leetcode-/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2004pra/Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/2004pra/Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/2004pra/Leetcode-/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/2004pra/Leetcode-/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
@@ -762,6 +764,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/2004pra/Leetcode-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2004pra/Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/2004pra/Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
