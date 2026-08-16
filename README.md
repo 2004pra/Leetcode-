@@ -104,6 +104,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/2004pra/Leetcode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2004pra/Leetcode-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2004pra/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/2004pra/Leetcode-/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -276,6 +277,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/2004pra/Leetcode-/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/2004pra/Leetcode-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2004pra/Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/2004pra/Leetcode-/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
@@ -495,6 +497,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1636-sort-array-by-increasing-frequency](https://github.com/2004pra/Leetcode-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2004pra/Leetcode-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -606,6 +609,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/2004pra/Leetcode-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2004pra/Leetcode-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/2004pra/Leetcode-/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/2004pra/Leetcode-/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/2004pra/Leetcode-/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
