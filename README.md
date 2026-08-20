@@ -146,6 +146,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/2004pra/Leetcode-/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/2004pra/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2004pra/Leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2004pra/Leetcode-/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2004pra/Leetcode-/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/3371-identify-the-largest-outlier-in-an-array/) | Medium |
@@ -433,6 +434,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2500-delete-greatest-value-in-each-row](https://github.com/2004pra/Leetcode-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/2004pra/Leetcode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2004pra/Leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/2004pra/Leetcode-/tree/main/3271-hash-divided-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/2004pra/Leetcode-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/2004pra/Leetcode-/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
