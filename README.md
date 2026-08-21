@@ -276,6 +276,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0908-smallest-range-i](https://github.com/2004pra/Leetcode-/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/2004pra/Leetcode-/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/2004pra/Leetcode-/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1323-maximum-69-number](https://github.com/2004pra/Leetcode-/tree/main/1323-maximum-69-number/) | Easy |
 | [1399-count-largest-group](https://github.com/2004pra/Leetcode-/tree/main/1399-count-largest-group/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -580,6 +581,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [0942-di-string-match](https://github.com/2004pra/Leetcode-/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1323-maximum-69-number](https://github.com/2004pra/Leetcode-/tree/main/1323-maximum-69-number/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2004pra/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
