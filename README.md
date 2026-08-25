@@ -155,6 +155,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/2004pra/Leetcode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/2004pra/Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/2004pra/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2004pra/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -528,6 +529,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/2004pra/Leetcode-/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/2004pra/Leetcode-/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/2004pra/Leetcode-/tree/main/3713-longest-balanced-substring-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/2004pra/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2004pra/Leetcode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/2004pra/Leetcode-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/2004pra/Leetcode-/tree/main/3842-toggle-light-bulbs/) | Easy |
