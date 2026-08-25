@@ -12,7 +12,7 @@ public:
         if(ok) return k;
         int ans = 0;
         set<int> st(nums.begin(),nums.end());
-        for(int i=k;i<=1000;i+=k){
+        for(int i=k;i<=200;i+=k){
             if(st.find(i)==st.end()){
              return i;
             }
