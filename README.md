@@ -301,6 +301,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/2004pra/Leetcode-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/2004pra/Leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2004pra/Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/2004pra/Leetcode-/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/2004pra/Leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
