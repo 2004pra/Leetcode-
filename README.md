@@ -315,6 +315,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0938-range-sum-of-bst](https://github.com/2004pra/Leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1905-count-sub-islands](https://github.com/2004pra/Leetcode-/tree/main/1905-count-sub-islands/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2004pra/Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -666,6 +667,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0938-range-sum-of-bst](https://github.com/2004pra/Leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2004pra/Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -694,6 +696,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0938-range-sum-of-bst](https://github.com/2004pra/Leetcode-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/2004pra/Leetcode-/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/2004pra/Leetcode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2004pra/Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
