@@ -803,6 +803,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0177-nth-highest-salary](https://github.com/2004pra/Leetcode-/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/2004pra/Leetcode-/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/2004pra/Leetcode-/tree/main/0183-customers-who-never-order/) | Easy |
+| [1179-reformat-department-table](https://github.com/2004pra/Leetcode-/tree/main/1179-reformat-department-table/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
