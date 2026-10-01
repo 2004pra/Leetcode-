@@ -351,6 +351,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/2004pra/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/2004pra/Leetcode-/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/2004pra/Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/2004pra/Leetcode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -753,6 +754,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/2004pra/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2004pra/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0402-remove-k-digits](https://github.com/2004pra/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/2004pra/Leetcode-/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -828,5 +830,6 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/2004pra/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
