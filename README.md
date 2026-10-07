@@ -98,6 +98,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/2004pra/Leetcode-/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/2004pra/Leetcode-/tree/main/1528-shuffle-string/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/2004pra/Leetcode-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -228,6 +229,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/2004pra/Leetcode-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/2004pra/Leetcode-/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -461,6 +463,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0658-find-k-closest-elements](https://github.com/2004pra/Leetcode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0888-fair-candy-swap](https://github.com/2004pra/Leetcode-/tree/main/0888-fair-candy-swap/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/2004pra/Leetcode-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
