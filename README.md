@@ -386,6 +386,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1370-increasing-decreasing-string](https://github.com/2004pra/Leetcode-/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/2004pra/Leetcode-/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1528-shuffle-string](https://github.com/2004pra/Leetcode-/tree/main/1528-shuffle-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2004pra/Leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/2004pra/Leetcode-/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/2004pra/Leetcode-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -595,6 +596,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0984-string-without-aaa-or-bbb](https://github.com/2004pra/Leetcode-/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1323-maximum-69-number](https://github.com/2004pra/Leetcode-/tree/main/1323-maximum-69-number/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/2004pra/Leetcode-/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2004pra/Leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/2004pra/Leetcode-/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2004pra/Leetcode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/2004pra/Leetcode-/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -766,6 +768,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0856-score-of-parentheses](https://github.com/2004pra/Leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/2004pra/Leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2004pra/Leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -837,5 +840,6 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/2004pra/Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/2004pra/Leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/2004pra/Leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2004pra/Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
