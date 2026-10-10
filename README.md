@@ -126,6 +126,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2215-find-the-difference-of-two-arrays](https://github.com/2004pra/Leetcode-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/2004pra/Leetcode-/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/2004pra/Leetcode-/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2004pra/Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/2004pra/Leetcode-/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -240,6 +241,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2126-destroying-asteroids](https://github.com/2004pra/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2004pra/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/2004pra/Leetcode-/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2004pra/Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2363-merge-similar-items](https://github.com/2004pra/Leetcode-/tree/main/2363-merge-similar-items/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -467,6 +469,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [1552-magnetic-force-between-two-balls](https://github.com/2004pra/Leetcode-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/2004pra/Leetcode-/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2004pra/Leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2004pra/Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/2004pra/Leetcode-/tree/main/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/2004pra/Leetcode-/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -603,6 +606,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [2078-two-furthest-houses-with-different-colors](https://github.com/2004pra/Leetcode-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/2004pra/Leetcode-/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2004pra/Leetcode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2004pra/Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/2004pra/Leetcode-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/2004pra/Leetcode-/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/2004pra/Leetcode-/tree/main/2938-separate-black-and-white-balls/) | Medium |
@@ -731,6 +735,7 @@ If you want difficulty breakdown, we can generate it too, but it requires storin
 | [0692-top-k-frequent-words](https://github.com/2004pra/Leetcode-/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/2004pra/Leetcode-/tree/main/0767-reorganize-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2004pra/Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/2004pra/Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/2004pra/Leetcode-/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/2004pra/Leetcode-/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Bucket Sort
